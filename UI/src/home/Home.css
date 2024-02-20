@@ -1,0 +1,37 @@
+.logoutBtnContainer {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.container-fluid {
+  min-height: 100vh;
+  background-color: #1e4d91;
+}
+.form-container {
+  background-color: #fff;
+  border-radius: 10px;
+  width: 400px;
+  box-shadow: 0px 0px 10px 0px #000;
+}
+.form-input-container {
+  margin-bottom: 30px;
+  padding: 0 30px;
+}
+.header-container {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.sub-header-container {
+  padding: 10px;
+  justify-content: center;
+}
+.clientName {
+  font-weight: 600;
+}
+.btn-primary {
+  background-color: #1e4d91 !important;
+  border-color: #1e4d91 !important;
+  border-radius: 4px !important;
+}
